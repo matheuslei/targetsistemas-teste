@@ -7,7 +7,6 @@ Este repositório contém a solução para o desafio técnico, dividido em cinco
 - `src/`: Contém os scripts Python que resolvem cada uma das questões do desafio.
 - `data/`: Contém o arquivo JSON necessário para a questão 3.
 - `README.md`: Este arquivo, contendo as instruções para execução dos scripts.
-- `requirements.txt`: Arquivo para instalação das dependências (caso necessário).
 
 **Questões**
 
@@ -36,6 +35,4 @@ Este repositório contém a solução para o desafio técnico, dividido em cinco
 
 **Execução**
 
-Todos os scripts foram desenvolvidos em Python. Para executar, certifique-se de ter o Python instalado. Se houver dependências, instale-as com:
-
-`pip install -r requirements.txt`
+Todos os scripts foram desenvolvidos em Python. Para executar, certifique-se de ter o Python instalado.
